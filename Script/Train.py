@@ -93,7 +93,7 @@ resnet_model.fit_generator(
 
 
 
-
+# output will be --->
 #Instructions for updating:
 Please use Model.fit, which supports generators.
 Epoch 1/100

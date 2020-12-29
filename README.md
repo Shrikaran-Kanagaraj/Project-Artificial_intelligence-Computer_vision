@@ -5,5 +5,7 @@
 
 The Trained File i used for Classification.ipynb - https://drive.google.com/file/d/1Zc7mcbxp25bH6m17-UY5n_1Sf16zRsNt/view is named as resnetmodel.hdf5 .
 
+The image.py file - https://drive.google.com/file/d/1t0DQwpNDlP3wtMwrrvGCGYRwvukJF79i/view 
+
 Yet more info has to come !!! Stay tuned !
  

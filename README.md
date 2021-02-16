@@ -1,5 +1,5 @@
 # Project-Ai-CV
- The Machine Learning Platform (Tensorflow with Keras) is used to predict the hand gesture by the user inorder to control the media player. I have used VideoLAN media player's HotKeys.
+ The Machine Learning Platform (Tensorflow with Keras) is used to predict the hand gesture by the user in order to control the media player. I have used VideoLAN media player's HotKeys.
 
 The image.py file - https://drive.google.com/file/d/1t0DQwpNDlP3wtMwrrvGCGYRwvukJF79i/view - this is the python file to train your own ML model.
 
